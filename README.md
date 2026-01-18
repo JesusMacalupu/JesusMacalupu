@@ -41,13 +41,26 @@ Desarrollador web con experiencia en front-end y back-end, enfocado en crear sol
 
 ---
 
-## 📂 Proyectos
-🔹 Sistemas web con HTML, CSS y JavaScript  
-🔹 APIs REST con Node.js  
-🔹 Proyectos con Vue.js y Tailwind CSS  
-🔹 Bases de datos MySQL y SQL Server  
+## 🧠 Metodologías y Conocimientos
 
-👉 Todos visibles en mi portafolio.
+- Scrum y Kanban  
+- Inglés intermedio  
+- Ofimática: Word, PowerPoint, Excel  
+- Google Workspace  
+
+---
+
+## 🤝 Habilidades Blandas
+
+- Trabajo en equipo  
+- Comunicación efectiva  
+- Adaptabilidad  
+- Creatividad  
+- Resolución de problemas  
+- Atención al detalle  
+- Actitud proactiva y orientación a resultados  
+
+## 👉 Todos los proyectos visibles en mi portafolio.
 
 ---
 

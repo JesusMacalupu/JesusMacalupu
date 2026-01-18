@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hola, soy Jesús Manuel Macalupu Estelo</h1>
+  <h3>Desarrollador Web | Ingeniería de Sistemas</h3>
 
-<!--
-**JesusMacalupu/JesusMacalupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <a href="https://jesusmacalupu.github.io/Portafolio_Jesus_Macalupu/portafolio.html">
+      🌐 Ver Portafolio
+    </a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Soy estudiante de **Ingeniería de Sistemas**, con interés en el **desarrollo web**, APIs y soluciones tecnológicas modernas.  
+Me gusta crear proyectos funcionales, bien estructurados y con buenas prácticas.
+
+📍 Perú  
+📧 manuelestelo23@gmail.com  
+
+---
+
+## 💻 Tecnologías
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+</p>
+
+---
+
+## 📂 Proyectos
+🔹 Sistemas web con HTML, CSS y JavaScript  
+🔹 APIs REST con Node.js  
+🔹 Proyectos con Vue.js y Tailwind CSS  
+🔹 Bases de datos MySQL y SQL Server  
+
+👉 Todos visibles en mi portafolio.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusmacalupu&show_icons=true&theme=dark"/>
+</div>

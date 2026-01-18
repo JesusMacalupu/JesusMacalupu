@@ -14,7 +14,7 @@
 ## 🚀 Sobre mí
 Desarrollador web con experiencia en front-end y back-end, enfocado en crear soluciones digitales funcionales, intuitivas y centradas en el usuario. Combino lo técnico con principios de UI/UX para desarrollar proyectos modernos y bien estructurados.
 
-📍 Perú  
+📱 +51 904652881  
 📧 manuelestelo23@gmail.com  
 
 ---

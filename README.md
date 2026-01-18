@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Jesus Manuel Macalupu Estelo 💻</h1>
-  <h3>Desarrollador Web | Ingeniería de Sistemas</h3>
+  <h3>Desarrollador Web | Ingeniero de Sistemas</h3>
 
   <p>
     <a href="https://jesusmacalupu.github.io/Portafolio_Jesus_Macalupu/portafolio.html">

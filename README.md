@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Jesus Manuel Macalupu Estelo 💻</h1>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=console.log('Hola+Mundo');Desarrollador+Web;Frontend+y+Backend;Aprendiendo+cada+día"/>
   <h3>Desarrollador Web | Ingeniero de Sistemas</h3>
 
   <p>

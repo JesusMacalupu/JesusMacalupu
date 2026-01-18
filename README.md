@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hola, soy Jesus Manuel Macalupu Estelo 💻</h1>
-  <img src="static/gifs/pic10.gif" width="400" alt="Coding animation"/>
+  <img src="https://raw.githubusercontent.com/samadpls/Programing-Gifs/main/public/gifs/pic10.gif" width="400" alt="Programming GIF"/>
 
   <h3>Desarrollador Web | Ingeniero de Sistemas</h3>
 

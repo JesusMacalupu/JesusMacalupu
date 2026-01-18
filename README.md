@@ -67,5 +67,10 @@ Desarrollador web con experiencia en front-end y back-end, enfocado en crear sol
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jesusmacalupu&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusmacalupu&show_icons=true&theme=dark&hide_title=true"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmacalupu&layout=compact&theme=dark"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=jesusmacalupu&theme=dark"/>
 </div>
+

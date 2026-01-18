@@ -12,8 +12,7 @@
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de **Ingeniería de Sistemas**, con interés en el **desarrollo web**, APIs y soluciones tecnológicas modernas.  
-Me gusta crear proyectos funcionales, bien estructurados y con buenas prácticas.
+Desarrollador web con experiencia en front-end y back-end, enfocado en crear soluciones digitales funcionales, intuitivas y centradas en el usuario. Combino lo técnico con principios de UI/UX para desarrollar proyectos modernos y bien estructurados.
 
 📍 Perú  
 📧 manuelestelo23@gmail.com  
